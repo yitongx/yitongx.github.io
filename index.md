@@ -3,6 +3,8 @@ I'm a junior student at the School of Automation Science and Electronic Engineer
 
 I plan to apply for master's and Ph.D. programs in both EE and CS after my graduation.
 
+![test.gif](test.gif)
+
 # Projects
 
 ### Self Navigated Vechiles
