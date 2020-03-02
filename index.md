@@ -1,13 +1,11 @@
-## Welcome to GitHub Pages
+# Yitong Xia (夏铱彤)
+I am a junior student at the School of Automation Science and Electronic Engineering (SASEE) Department, Beihang University, Beijing, China.
+On this webpage, I displayed some projects and researches that I took during my undergraduate years.
 
-You can use the [editor on GitHub](https://github.com/yitongx/yitongx.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Projects
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+## Researches
 ```markdown
 Syntax highlighted code block
 
