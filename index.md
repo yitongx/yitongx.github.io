@@ -5,8 +5,22 @@ I plan to apply for master's and Ph.D. programs in both EE and CS after my gradu
 
 # Projects
 
+### Self Navigated Vechiles
 
-## Researches
+### 6th "_Yuyuan_" Robot Contest Topic Maker
+
+# Researches
+
+### Implicit Semantic Data Augmentation for Deep Learning
+
+### Graph Embedding Relation Networks for Few-shot Learning
+
+# Experience
+
+### UIUC Summer School
+
+### Airbus Interviews
+
 ```markdown
 Syntax highlighted code block
 
