@@ -2,14 +2,19 @@
 I'm a junior student at the School of Automation Science and Electronic Engineering (SASEE), Beihang University, Beijing China. My research interests are computer vision, robotics and explainability of machine learning. Currently, I'm working with Prof. [Gao Huang](http://www.gaohuang.net/) at Tsinghua University. Before that, I worked with Prof. [Baochang Zhang](https://scholar.google.co.jp/citations?user=WH0J_34AAAAJ&hl=en&oi=ao) at Beihang University.
 
 I plan to apply for master's and Ph.D. programs in both EE and CS after my graduation.
-
-​					<img src="test.gif" alt="te" style="zoom:30%;" />				<img src="test.gif" alt="te" style="zoom:30%;" />	
-
-​									  Dynamic Route Planning															          Camera Platform							
+		
 
 # Projects
 
 ### Self Navigated Vechiles
+Built from scratch. I'm a junior student at the School of Automation Science and Electronic Engineering (SASEE), Beihang University, Beijing China. My research interests are computer vision, robotics and explainability of machine learning. Currently, I'm working with Prof. [Gao Huang](http://www.gaohuang.net/) at Tsinghua University. Before that, I worked with Prof. [Baochang Zhang](https://scholar.google.co.jp/citations?user=WH0J_34AAAAJ&hl=en&oi=ao) at Beihang University.
+
+
+<img src="test.gif" alt="te" style="zoom:30%;" />
+    Dynamic Route Planning				
+
+<img src="test.gif" alt="te" style="zoom:30%;" />	
+    Camera Platform		
 
 ### 6th "_Yuyuan_" Robot Contest Topic Maker
 
