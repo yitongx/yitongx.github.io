@@ -1,6 +1,5 @@
 # Yitong Xia (夏铱彤)
 I am a junior student at the School of Automation Science and Electronic Engineering (SASEE) Department, Beihang University, Beijing, China.
-On this webpage, I displayed some projects and researches that I took during my undergraduate years.
 
 ## Projects
 
