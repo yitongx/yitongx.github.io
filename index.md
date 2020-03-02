@@ -3,9 +3,9 @@ I'm a junior student at the School of Automation Science and Electronic Engineer
 
 I plan to apply for master's and Ph.D. programs in both EE and CS after my graduation.
 
- <img src="test.gif" alt="test.gif" style="zoom: 50%;" />	
+​					<img src="test.gif" alt="te" style="zoom:50%;" />				<img src="test.gif" alt="te" style="zoom:50%;" />	
 
-
+​									Dynamic Route Planning															Camera Platform							
 
 # Projects
 
