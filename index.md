@@ -3,7 +3,9 @@ I'm a junior student at the School of Automation Science and Electronic Engineer
 
 I plan to apply for master's and Ph.D. programs in both EE and CS after my graduation.
 
-![test.gif](test.gif)
+ <img src="test.gif" alt="test.gif" style="zoom: 50%;" />	
+
+
 
 # Projects
 
