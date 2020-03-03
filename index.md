@@ -5,8 +5,6 @@ I plan to apply for master's and Ph.D. programs in both EE and CS after my gradu
 
 # Projects
 
-------
-
 ## Chief Topic Maker of 7th "_Yuyuan_" Robot Contest  (2019.10)
 
 I am honored to be the chief topic maker of the “Yuyuan” Robot Contest of Automation Science Department. The topic I made will require teams to use multi-modal sensors and to achieve precise controls over their vehicles' motion.
@@ -29,8 +27,6 @@ I am honored to be the chief topic maker of the “Yuyuan” Robot Contest of Au
 
 # Researches
 
-------
-
 ## Implicit Semantic Data Augmentation for Deep Learning (2020.2)
 
 *Yulin Wang, Xuran Pan, Shiji Song, **Yitong Xia**, Hong Zhang, Cheng Wu, Gao Huang*. *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI). (Under review)*
@@ -46,8 +42,6 @@ _**Yitong Xia**, Zhen Liu, BaoChang Zhang, Kexin Liu. Chinese Control Conference
 A few-shot classification architecture. To further enhance the relation learning within classes, we design a 3-layer graph relation module. To balance the lower and higher level features, we skip connect the graph module. The graph module can easily fit in any one-stage learning architectures. Our approach is brief, yet it can achieve higher few-shot classification accuracies on _miniImageNet_ and _tieredImageNet_ than existing graph approaches. My contributions are: I independently implemented the experiments and wrote the paper.
 
 # Experience
-
-------
 
 ## UIUC Summer School (2018.07)
 
