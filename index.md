@@ -22,9 +22,13 @@ I am honored to be the chief topic maker of the “Yuyuan” Robot Contest of Au
 
 -   Customized Mechanical Arm and Decks: We 3-D printed essential parts and assembly with light materials. We modeled the assemblies in SolidWorks and laser-cut the decks.
 
-    ​					<img src="maze.jpg" style="zoom:30%;" />     <img src="sideview.jpg" style="zoom:30%;" />
+    ​					<img src="maze.jpg" style="zoom:30%;" />    <img src="sideview.jpg" style="zoom:30%;" />
 
-    ​										<img src="tracking 00_00_04-00_00_11.gif" style="zoom:50%;" />     <img src="tracking detail 00_00_00-00_00_06.gif" style="zoom:50%;" />
+    ​									     
+    
+    ![](tracking 00_00_04-00_00_11.gif)
+    
+    ![tracking detail 00_00_00-00_00_06](tracking detail 00_00_00-00_00_06.gif)
 
 # Researches
 
