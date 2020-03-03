@@ -31,7 +31,7 @@ I am honored to be the chief topic maker of the “Yuyuan” Robot Contest of Au
 
 # Researches
 
-### Implicit Semantic Data Augmentation for Deep Learning (2020.2)
+### Implicit Semantic Data Augmentation for Deep Learning (2020.02)
 
 *Yulin Wang, Xuran Pan, Shiji Song, **Yitong Xia**, Hong Zhang, Cheng Wu, Gao Huang*. *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI). (Under review)*
 
