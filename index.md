@@ -20,7 +20,7 @@ I am honored to be the chief topic maker of the “Yuyuan” Robot Contest of Au
 
 -   Multi-sensors: We used a gyroscope is to detect its orientation roughly. We used four ultrasonic sensors for distance detection and preciser orientation adjustments. We used infrared sensors to locate.
 
--   Customized Mechanical Arm and Decks: We 3-D printed essential parts and assembly with light materials. We modeled the assemblies in SolidWorks and laser-cut the decks.
+-   Customized Mechanical Arm and Decks: We 3D printed essential components. We modeled the assemblies in SolidWorks and laser-cut the decks.
 
     ​					<img src="maze.jpg" style="zoom:30%;" />     <img src="sideview.jpg" style="zoom:30%;" />
 
