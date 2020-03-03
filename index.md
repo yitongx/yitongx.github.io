@@ -1,9 +1,7 @@
 # Bio 
 I'm a junior student at the Automation Science Department, Beihang University, Beijing China. My research interests are computer vision, robotics and explainability of machine learning. Currently, I'm working with Prof. [Gao Huang](http://www.gaohuang.net/) at Tsinghua University. Before that, I worked with Prof. [Baochang Zhang](https://scholar.google.co.jp/citations?user=WH0J_34AAAAJ&hl=en&oi=ao) at Beihang University.
 
-I plan to apply for master's and Ph.D. programs in both EE and CS after my graduation.
 I plan to apply for master's and Ph.D. programs in both EE and CS departments.
-		
 
 # Projects
 
