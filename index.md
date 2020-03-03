@@ -16,7 +16,7 @@ I am honored to be the chief topic maker of the “Yuyuan” Robot Contest of Au
 
 -   Dynamic Route Planning: The vehicle was required to find 5 out of 8 valid locations (candidates marked in orange) in a maze, and carry the payload to assigned locations. Our strategy was 1) pre-store rough map 2) update valid locations during exploration 3) compute the shortest transporting routes. The algorithms were deployed on an ATMEGA328P platform.
 
--   Tracking Camera: We designed and built a motor-driven camera platform. It allowed the camera to track targets in a wider range.
+-   Tracking Camera: We chose OpenMV, an integrated camera module programmable in Python. We built a motor-driven camera platform. It allowed the camera to track targets in a wider range. 
 
 -   Multi-sensors: We used a gyroscope is to detect its orientation roughly. We used four ultrasonic sensors for distance detection and preciser orientation adjustments. We used infrared sensors to locate.
 
