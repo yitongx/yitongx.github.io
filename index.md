@@ -14,7 +14,7 @@ I am honored to be the chief topic maker of the “Yuyuan” Robot Contest of Au
 
 ### A Self-naviagted Vehicle with A Tracking Camera and Dynamic Route Planning  Algorithms (2018.12)
 
--   Dynamic Route Planning: The vehicle was required to find 5 out of 8 valid locations (candidates marked in orange) in a maze, and carry the payload to assigned locations. Our strategy was 1) pre-store rough map 2) update valid locations during exploration 3) compute the shortest transporting routes. The algorithms were deployed on an ATMEGA328P platform.
+-   Dynamic Route Planning: The vehicle was required to find 5 out of 8 valid locations (candidates marked in orange) in a maze, and carry the payload to assigned locations. Our strategy was 1) pre-store rough map 2) update valid locations during exploration 3) compute the shortest transporting routes. The algorithms were deployed on an ATMEGA328P chip.
 
     ​					<img src="sideview.jpg" style="zoom:40%;" />     <img src="maze.jpg" style="zoom:40%;" />
 
