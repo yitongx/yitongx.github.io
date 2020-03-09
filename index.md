@@ -35,7 +35,7 @@ I am honored to be the chief topic maker of the “Yuyuan” Robot Contest of Au
 
 *Yulin Wang, Xuran Pan, Shiji Song, **Yitong Xia**, Hong Zhang, Cheng Wu, Gao Huang*. *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI). (Under review)*
 
-An effective and efficient data augmentation method. It first online estimates the covariance matrix of each class's deep feature, and sample zero-mean normal distributions from those matrices to find meaningful semantic directions of deep features. Then it randomly augments the original features along zero-mean normal distributions. To handle the computation cost, we take the upper bound of the original loss as optimizing loss. This method fits in both supervised and unsupervised learning and can improve performances of classical classification architectures, such as *ResNet* or *mean teacher*. My contributions are: I improved the method to fit it in semi-supervised learning settings and independently implemented the experiments.
+An effective and efficient data augmentation method. It first online estimates the covariance matrix of each class's deep feature, and sample zero-mean normal distributions from those matrices to find meaningful semantic directions of deep features. Then it randomly augments the original features along zero-mean normal distributions. To handle the computation cost, we take the upper bound of the original loss as optimizing loss. This method fits in both supervised and semi-supervised learning and can improve performances of classical classification architectures, such as *ResNet* or *mean teacher*. My contributions are: I improved the method to fit it in semi-supervised learning settings and independently implemented the experiments.
 
 
 
