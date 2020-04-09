@@ -49,5 +49,5 @@ A few-shot classification architecture. To further enhance the relation learning
 
 ### UIUC Summer School (2018.07)
 
-I attended the summer school program at University of Illinois at Urbana-Champaign. I listened to 2 courses: Control Systems and Artificial Intelligence.
+I attended the summer school program at University of Illinois at Urbana-Champaign. I attended 2 courses: Control Systems and Artificial Intelligence.
 
