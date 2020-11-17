@@ -5,7 +5,6 @@
 I'm a senior student at the Automation Science Department, Beihang University, Beijing China. My research interests are computer vision, robotics and machine learning systems. Currently, I'm working as a summer intern with Prof. [Yonggang Wen](https://www.ntu.edu.sg/home/ygwen/). Before that, I worked with Prof. [Baochang Zhang](https://scholar.google.co.jp/citations?user=WH0J_34AAAAJ&hl=en&oi=ao) at Beihang University and Prof. [Gao Huang](http://www.gaohuang.net/) at Tsinghua University.
 
 I plan to apply for master's and Ph.D. programs in both EE and CS directions.
-
     </td>
     <td width="40%">
     </td>
