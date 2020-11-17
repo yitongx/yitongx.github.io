@@ -29,7 +29,7 @@ In this work we designed a few-shot classification architecture. To further enha
 
 # Projects
 ### Non-contact Heart Rate Measurement with Depth Camera(2020.11)
-- We use a Microsoft Kinect to obtain depth image and measure the heart rate. This will be my graduation project and it is in process.
+- We are using a Azure Kinect DK to obtain depth image and measure the heart rate. This will be my graduation project and it is in process.
 
 ### Visual Marker Tracking and Flight Control Algorithms for DJI Mavic Air Development(2020.10)
 - Visual Recognition Algorithm: Based on OpenCVSharp, I designed a detection algorithm to detect a square marker. The algorithm could: (1) provide stable marker detection in a disturbing context. It was robust to changing backgronds and lightening. (2) provide fast dectection. The detection speed could reach 30 fps. (3) provide stable three-axis distance esimations, which input to the flight control algorithm.
@@ -38,7 +38,7 @@ In this work we designed a few-shot classification architecture. To further enha
 
 - Flight Control Algorithm: We simulated the control algorithm in both Simulink and DJI Assistant environments before deploying it to the drone.
 
-​                                                       <img src="drone_simulation.png" style="zoom:60%;"> 
+​                              <img src="drone_simulation.png" style="zoom:60%;">         <img src="simulink_simulation.png" style="zoom:40%;">
 - Desktop-class Console: Based on DJIWindowsSDK, we developed a monitor console that displayed instant accelerations, velocities, spacial coordinates, and instant camera image.
 
 ### Pattern Recognition Course: Classification on Medical Cell Dataset
