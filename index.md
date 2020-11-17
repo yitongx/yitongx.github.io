@@ -1,7 +1,13 @@
 # Bio
-<div>
-<img src="./selfie.jpg" style="zoom:50%" align="middle"/>
-
+<div id="box">
+    <table width="100%" height="100%">
+        <tr>
+            <td align="center">
+                <img src="./selfie.jpg" style="zoom:50%" >
+            </td>
+        </tr>
+    </table>
+</div>
 <p>
 I'm a senior student at the Automation Science Department, Beihang University, Beijing, China. I held an average GPA of 3.80/4.00 or 91/100 for the past three years.
 </p>  
@@ -11,7 +17,6 @@ My research interests are computer vision, machine learning and ML systems. Curr
 <p>       
 I plan to apply for master's and Ph.D. programs in both EE and CS directions.
 </p>
-</div>
 
 
 # Researches
