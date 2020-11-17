@@ -1,6 +1,6 @@
 # Bio
 <div>
-<img src="./selfie.jpg" style="zoom:50%;" />
+<img src="./selfie.jpg" style="zoom:50%" align="middle"/>
 
 <p>
 I'm a senior student at the Automation Science Department, Beihang University, Beijing, China. I held an average GPA of 3.80/4.00 or 91/100 for the past three years.
