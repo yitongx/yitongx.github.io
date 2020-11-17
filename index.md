@@ -38,7 +38,7 @@ In this work we designed a few-shot classification architecture. To further enha
 
 - Flight Control Algorithm: We simulated the control algorithm in both Simulink and DJI Assistant environments before deploying it to the drone.
 
-​                              <img src="drone_simulation.png" style="zoom:60%;">         <img src="simulink_simulation.png" style="zoom:40%;">
+​                              <img src="drone_simulation.png" style="zoom:40%;">         <img src="simulink_simulation.png" style="zoom:50%;">
 - Desktop-class Console: Based on DJIWindowsSDK, we developed a monitor console that displayed instant accelerations, velocities, spacial coordinates, and instant camera image.
 
 ### Pattern Recognition Course: Classification on Medical Cell Dataset
