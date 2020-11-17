@@ -34,10 +34,10 @@ In this work we designed a few-shot classification architecture. To further enha
 ### Visual Marker Tracking and Flight Control Algorithms for DJI Mavic Air Development(2020.10)
 - Visual Recognition Algorithm: Based on OpenCVSharp, I designed a detection algorithm to detect a square marker. The algorithm could: (1) provide stable marker detection in a disturbing context. It was robust to changing backgronds and lightening. (2) provide fast dectection. The detection speed could reach 30 fps. (3) provide stable three-axis distance esimations, which input to the flight control algorithm.
 
-​                              <img src="marker_recognition.png" style="zoom:40%;">       <img src="drone_tracking.gif" style="zoom:50%;" />
+​                              <img src="marker_recognition.png" style="zoom:100%;">       <img src="drone_tracking.gif" style="zoom:100%;" />
 - Flight Control Algorithm: We simulated the control algorithm in both Simulink and DJI Assistant environments before deploying it to the drone.
 
-​                                                       <img src="drone_simulation.png" style="zoom:20%;"> 
+​                                                       <img src="drone_simulation.png" style="zoom:50%;"> 
 - Desktop-class Console: Based on DJIWindowsSDK, we developed a monitor console that displayed instant accelerations, velocities, spacial coordinates, and instant camera image.
 
 ### Pattern Recognition Course: Classification on Medical Cell Dataset
