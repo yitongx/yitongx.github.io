@@ -34,7 +34,8 @@ In this work we designed a few-shot classification architecture. To further enha
 ### Visual Marker Tracking and Flight Control Algorithms for DJI Mavic Air Development(2020.10)
 - Visual Recognition Algorithm: Based on OpenCVSharp, I designed a detection algorithm to detect a square marker. The algorithm could: (1) provide stable marker detection in a disturbing context. It was robust to changing backgronds and lightening. (2) provide fast dectection. The detection speed could reach 30 fps. (3) provide stable three-axis distance esimations, which input to the flight control algorithm.
 
-​                              <img src="marker_recognition.png" style="zoom:100%;">       <img src="drone_tracking.gif" style="zoom:100%;" />
+​                              <img src="marker_recognition.png" style="zoom:100%;">       <img src="drone_tracking.gif" style="zoom:110%;" />
+
 - Flight Control Algorithm: We simulated the control algorithm in both Simulink and DJI Assistant environments before deploying it to the drone.
 
 ​                                                       <img src="drone_simulation.png" style="zoom:50%;"> 
@@ -52,12 +53,12 @@ In this work we designed a few-shot classification architecture. To further enha
 
 - Dynamic Route Planning: The vehicle was required to find 5 out of 8 valid locations (candidates marked in orange) in a maze, and carry the payload to assigned locations. Our strategy was to (1) pre-store a rough map (2) update valid locations during exploration (3) rank distances of different routes and pick the optimal one. The algorithms were deployed on an ATmega328P chip.
 
-    ​					          <img src="sideview.jpg" style="zoom:30%;" />     <img src="maze.jpg" style="zoom:30%;" />
+    ​					          <img src="sideview.jpg" style="zoom:40%;" />     <img src="maze.jpg" style="zoom:40%;" />
 
 
 - Tracking Camera: We chose OpenMV, an integrated camera module programmable in Python. I built a motor-driven camera platform. It allowed the camera to track targets in a wider range. 
 
-    ​                   <img src="tracking 00_00_04-00_00_11.gif" style="zoom:30%;" />     <img src="tracking detail 00_00_00-00_00_06.gif" style="zoom:30%;" />
+    ​                   <img src="tracking 00_00_04-00_00_11.gif" style="zoom:40%;" />     <img src="tracking detail 00_00_00-00_00_06.gif" style="zoom:40%;" />
 
 - Multi-sensors: We used a gyroscope is to detect its orientation roughly. We used four ultrasonic sensors for distance detection and preciser orientation adjustments. We used infrared sensors to locate.
 
