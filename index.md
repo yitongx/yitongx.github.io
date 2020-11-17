@@ -7,7 +7,7 @@ I'm a senior student at the Automation Science Department, Beihang University, B
 I plan to apply for master's and Ph.D. programs in both EE and CS directions.
     </td>
     <td width="40%">
-        <img src="./selfie.jpg" width="50%">
+        <img src="./selfie.jpg" style="zoom:50%;" />
     </td>
 </table>
 </div>
