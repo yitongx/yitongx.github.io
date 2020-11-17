@@ -1,7 +1,6 @@
 # Bio
 <div>
 <table border="0">
-  <tr>
     <td width="60%">
       <p><b>Yitong Xia 夏铱彤</b></p>
       <p><b>Automation Science Department, Beihang University</b></p>
@@ -10,7 +9,6 @@
     </td>
     <td width="40%">
     </td>
-  </tr>
 </table>
 </div>
 
