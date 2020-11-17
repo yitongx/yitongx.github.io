@@ -38,7 +38,7 @@ In this work we designed a few-shot classification architecture. To further enha
 
 - Flight Control Algorithm: We simulated the control algorithm in both Simulink and DJI Assistant environments before deploying it to the drone.
 
-​                              <img src="drone_simulation.png" style="zoom:40%;">         <img src="simulink_simulation.png" style="zoom:50%;">
+​                              <img src="drone_simulation.png" style="zoom:40%;">         <img src="simulink_simulation.png" style="zoom:40%;">
 - Desktop-class Console: Based on DJIWindowsSDK, we developed a monitor console that displayed instant accelerations, velocities, spacial coordinates, and instant camera image.
 
 ### Pattern Recognition Course: Classification on Medical Cell Dataset
@@ -58,7 +58,7 @@ In this work we designed a few-shot classification architecture. To further enha
 
 - Tracking Camera: We chose OpenMV, an integrated camera module programmable in Python. I built a motor-driven camera platform. It allowed the camera to track targets in a wider range. 
 
-    ​                                    <img src="tracking 00_00_04-00_00_11.gif" style="zoom:60%;" />     <img src="tracking detail 00_00_00-00_00_06.gif" style="zoom:60%;" />
+    ​                                    <img src="tracking 00_00_04-00_00_11.gif" style="zoom:70%;" />     <img src="tracking detail 00_00_00-00_00_06.gif" style="zoom:70%;" />
 
 - Multi-sensors: We used a gyroscope is to detect its orientation roughly. We used four ultrasonic sensors for distance detection and preciser orientation adjustments. We used infrared sensors to locate.
 
