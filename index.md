@@ -1,8 +1,8 @@
 # Bio
 <div>
-<table border="0">
+<table border="1">
 <td width="30%">
-<img src="./selfie.jpg" style="zoom:10%;" />
+<img src="./selfie.jpg" style="zoom:30%;" />
 </td>
     
 <td width="70%">
@@ -22,7 +22,7 @@ I plan to apply for master's and Ph.D. programs in both EE and CS directions.
 
 
 # Projects
-### Visual Marker Tracking and Flight Control Algorithms for A DJI Mavic Air (2020.10)
+### Visual Marker Tracking and Flight Control Algorithms for DJI Mavic Air Development(2020.10)
 
 
 ### Chief Topic Maker of 7th "_Yuyuan_" Robot Contest  (2019.10)
