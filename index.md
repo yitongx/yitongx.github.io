@@ -42,13 +42,9 @@ In this work we designed a few-shot classification architecture. To further enha
 - The dataset contains three classes of cells: Lymphocyte, Normal Epithelial, and Malignant Epithelial.
 - We properly preprocessed the contexted cell image and trained a classification network through transfer learning. The final classification accuracies reached 95% classification accuracy and ranked 1/22 among all groups.
 
-    ​					<img src="maze.jpg" style="zoom:30%;" />    <img src="sideview.jpg" style="zoom:30%;" />
+### Chief Topic Maker of 7th "_Yuyuan_" Robot Contest  (2019.10)
 
-    ​									     
-    
-    ![](tracking 00_00_04-00_00_11.gif)
-    
-    ![tracking detail 00_00_00-00_00_06](tracking detail 00_00_00-00_00_06.gif)
+- I am honored to be the chief topic maker of the “Yuyuan” Robot Contest of Automation Science Department. The topic I made will require teams to use multi-modal sensors and to achieve precise controls over their vehicles' motion.
 
 ### A Self-naviagted Vehicle with A Tracking Camera and Dynamic Route Planning Algorithms (2018.12)
 
