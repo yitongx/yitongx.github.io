@@ -1,4 +1,19 @@
-# Bio 
+# Bio
+<div>
+<table border="0">
+  <tr>
+    <td width="60%">
+      <p><b>Yitong Xia 夏铱彤</b></p>
+      <p><b>Automation Science Department, Beihang University</b></p>
+      <p><b>Address: No.37 Xueyuan Road, Haidian District, Beijing, China</b></p>
+      <p><b>e-mail：xyt990614@buaa.edu.cn</b></p>
+    </td>
+    <td width="40%">
+    </td>
+  </tr>
+</table>
+</div>
+
 I'm a senior student at the Automation Science Department, Beihang University, Beijing China. My research interests are computer vision, robotics and machine learning systems. Currently, I'm working as a summer intern with Prof. [Yonggang Wen](https://www.ntu.edu.sg/home/ygwen/). Before that, I worked with Prof. [Baochang Zhang](https://scholar.google.co.jp/citations?user=WH0J_34AAAAJ&hl=en&oi=ao) at Beihang University and Prof. [Gao Huang](http://www.gaohuang.net/) at Tsinghua University.
 
 I plan to apply for master's and Ph.D. programs in both EE and CS directions.
