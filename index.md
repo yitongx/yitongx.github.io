@@ -7,6 +7,7 @@ I'm a senior student at the Automation Science Department, Beihang University, B
 I plan to apply for master's and Ph.D. programs in both EE and CS directions.
     </td>
     <td width="40%">
+        <img src="./selfie.jpg" width="100%">
     </td>
 </table>
 </div>
@@ -14,14 +15,15 @@ I plan to apply for master's and Ph.D. programs in both EE and CS directions.
 
 
 # Projects
-
 ### Chief Topic Maker of 7th "_Yuyuan_" Robot Contest  (2019.10)
 
 I am honored to be the chief topic maker of the “Yuyuan” Robot Contest of Automation Science Department. The topic I made will require teams to use multi-modal sensors and to achieve precise controls over their vehicles' motion.
 
 
+### Visual Marker Tracking and Flight Control Algorithms for A DJI Mavic Air (2020.10)
 
-### A Self-naviagted Vehicle with A Tracking Camera and Dynamic Route Planning  Algorithms (2018.12)
+
+### A Self-naviagted Vehicle with A Tracking Camera and Dynamic Route Planning Algorithms (2018.12)
 
 -   Dynamic Route Planning: The vehicle was required to find 5 out of 8 valid locations (candidates marked in orange) in a maze, and carry the payload to assigned locations. Our strategy was 1) pre-store rough map 2) update valid locations during exploration 3) compute the shortest transporting routes. The algorithms were deployed on an ATMEGA328P chip.
 
@@ -39,14 +41,11 @@ I am honored to be the chief topic maker of the “Yuyuan” Robot Contest of Au
 
 
 # Researches
-
 ### Regularizing Deep Networks with Semantic Data Augmentation (2020.05)
 
 *Yulin Wang, Xuran Pan, Shiji Song, **Yitong Xia**, Hong Zhang, Cheng Wu, Gao Huang*. *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI). (In revision)*
 
 An effective and efficient data augmentation method. It first online estimates the covariance matrix of each class's deep feature, and sample zero-mean normal distributions from those matrices to find meaningful semantic directions of deep features. Then it randomly augments the original features along zero-mean normal distributions. To handle the computation cost, we take the upper bound of the original loss as optimizing loss. This method fits in both supervised and semi-supervised learning and can improve performances of classical classification architectures, such as *ResNet* or *mean teacher*. My contributions are: I improved the method to fit it in semi-supervised learning settings and independently implemented the experiments.
-
-
 
 ### Graph Embedding Relation Networks for Few-shot Learning (2019.12)
 
@@ -55,7 +54,6 @@ _Zhen Liu*, **Yitong Xia\***, BaoChang Zhang, Kexin Liu. Chinese Control Confere
 A few-shot classification architecture. To further enhance the relation learning within classes, we design a 3-layer graph relation module. To balance the lower and higher level features, we skip connect the graph module. The graph module can easily fit in any one-stage learning architectures. Our approach is brief, yet it can achieve higher few-shot classification accuracies on _miniImageNet_ and _tieredImageNet_ than existing graph approaches.
 
 # Experience
-
 ### UIUC Summer School (2018.07)
 
 I attended the summer school program at University of Illinois at Urbana-Champaign. I attended 2 courses: Control Systems and Artificial Intelligence.
