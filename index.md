@@ -1,7 +1,4 @@
 # Bio
-             
-<img src="./selfie.jpg" style="zoom:50%" div align=middle>
-
 <p>
 I'm a senior student at the Automation Science Department, Beihang University, Beijing, China. I held an average GPA of 3.80/4.00 or 91/100 for the past three years.
 </p>  
@@ -31,8 +28,19 @@ In this work we designed a few-shot classification architecture. To further enha
 
 
 # Projects
-### Visual Marker Tracking and Flight Control Algorithms for DJI Mavic Air Development(2020.10)
+### Non-contact Heart Rate Measurement with Depth Camera(2020.11)
+- We use a Microsoft Kinect to obtain depth image and measure the heart rate. This will be my graduation project and it is in process.
 
+### Visual Marker Tracking and Flight Control Algorithms for DJI Mavic Air Development(2020.10)
+- Visual Recognition Algorithm: I 
+
+- Flight Control Algorithm:
+
+- Desktop-class Console: We developed a control console that displayed instant acceleration, velocity
+
+### Pattern Recognition Course: Classification on Medical Cell Dataset
+- The dataset contains three classes of cells: Lymphocyte, Normal Epithelial, and Malignant Epithelial.
+- We properly preprocessed the contexted cell image and trained a classification network through transfer learning. The final classification accuracies reached 95% classification accuracy and ranked 1/22 among all groups.
 
 ### Chief Topic Maker of 7th "_Yuyuan_" Robot Contest  (2019.10)
 
@@ -40,22 +48,22 @@ In this work we designed a few-shot classification architecture. To further enha
 
 ### A Self-naviagted Vehicle with A Tracking Camera and Dynamic Route Planning Algorithms (2018.12)
 
--   Dynamic Route Planning: The vehicle was required to find 5 out of 8 valid locations (candidates marked in orange) in a maze, and carry the payload to assigned locations. Our strategy was (1) pre-store rough map (2) update valid locations during exploration 3) compute the shortest transporting routes. The algorithms were deployed on an ATmega328P chip.
+- Dynamic Route Planning: The vehicle was required to find 5 out of 8 valid locations (candidates marked in orange) in a maze, and carry the payload to assigned locations. Our strategy was to (1) pre-store a rough map (2) update valid locations during exploration (3) rank distances of different routes and pick the optimal one. The algorithms were deployed on an ATmega328P chip.
 
-    ​					<img src="sideview.jpg" style="zoom:30%;" />     <img src="maze.jpg" style="zoom:30%;" />
+    ​					          <img src="sideview.jpg" style="zoom:30%;" />     <img src="maze.jpg" style="zoom:30%;" />
 
 
--   Tracking Camera: We chose OpenMV, an integrated camera module programmable in Python. I built a motor-driven camera platform. It allowed the camera to track targets in a wider range. 
+- Tracking Camera: We chose OpenMV, an integrated camera module programmable in Python. I built a motor-driven camera platform. It allowed the camera to track targets in a wider range. 
 
     ​                   <img src="tracking 00_00_04-00_00_11.gif" style="zoom:30%;" />     <img src="tracking detail 00_00_00-00_00_06.gif" style="zoom:30%;" />
 
--   Multi-sensors: We used a gyroscope is to detect its orientation roughly. We used four ultrasonic sensors for distance detection and preciser orientation adjustments. We used infrared sensors to locate.
+- Multi-sensors: We used a gyroscope is to detect its orientation roughly. We used four ultrasonic sensors for distance detection and preciser orientation adjustments. We used infrared sensors to locate.
 
--   Customized Mechanical Arm and Decks: We 3D printed essential components. We simluated the assemblies in SolidWorks and had them laser-cut.
+- Customized Mechanical Arm and Decks: We 3D printed essential components. We simluated the assemblies in SolidWorks and had them laser-cut.
 
 
 # Experience
-### UIUC Summer School (2018.07)
+### UIUC Summer School (2018.08)
 
-I attended the summer school program at University of Illinois at Urbana-Champaign. I attended 2 courses: Control Systems and Artificial Intelligence.
+- I attended the summer school program at University of Illinois at Urbana-Champaign. I attended 2 courses: Control Systems and Artificial Intelligence.
 
