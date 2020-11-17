@@ -1,41 +1,44 @@
 # Bio
 <div>
 <table border="0">
-    <td width="70%">
+<td width="30%">
+<img src="./selfie.jpg" style="zoom:10%;" />
+</td>
+    
+<td width="70%">
 <p>
-I'm a senior student at the Automation Science Department, Beihang University, Beijing China. My research interests are computer vision, robotics and machine learning systems. Currently, I'm working as a summer intern with <a href="https://www.ntu.edu.sg/home/ygwen/">Prof. Yonggan Wen</a>. Before that, I worked with <a href="https://scholar.google.co.jp/citations?user=WH0J_34AAAAJ&hl=en&oi=ao">Prof. Baochang Zhang</a> at Beihang University and <a href="http://www.gaohuang.net/">Prof. Gao Huang</a> at Tsinghua University.
+I'm a senior student at the Automation Science Department, Beihang University, Beijing, China. I held an average GPA of 3.80/4.00 or 91/100 for the past three years.
+</p>  
+<p>
+My research interests are computer vision, machine learning and ML systems. Currently, I'm working as a summer intern with <a href="https://www.ntu.edu.sg/home/ygwen/">Prof. Yonggan Wen</a>. Before that, I worked with <a href="https://scholar.google.co.jp/citations?user=WH0J_34AAAAJ&hl=en&oi=ao">Prof. Baochang Zhang</a> at Beihang University and <a href="http://www.gaohuang.net/">Prof. Gao Huang</a> at Tsinghua University.
 </p>
 <p>       
 I plan to apply for master's and Ph.D. programs in both EE and CS directions.
 </p>
-    </td>
-    <td width="30%">
-        <img src="./selfie.jpg" style="zoom:10%;" />
-    </td>
+</td>
 </table>
 </div>
 
 
 
 # Projects
+### Visual Marker Tracking and Flight Control Algorithms for A DJI Mavic Air (2020.10)
+
+
 ### Chief Topic Maker of 7th "_Yuyuan_" Robot Contest  (2019.10)
 
 I am honored to be the chief topic maker of the “Yuyuan” Robot Contest of Automation Science Department. The topic I made will require teams to use multi-modal sensors and to achieve precise controls over their vehicles' motion.
-
-
-### Visual Marker Tracking and Flight Control Algorithms for A DJI Mavic Air (2020.10)
-
 
 ### A Self-naviagted Vehicle with A Tracking Camera and Dynamic Route Planning Algorithms (2018.12)
 
 -   Dynamic Route Planning: The vehicle was required to find 5 out of 8 valid locations (candidates marked in orange) in a maze, and carry the payload to assigned locations. Our strategy was 1) pre-store rough map 2) update valid locations during exploration 3) compute the shortest transporting routes. The algorithms were deployed on an ATMEGA328P chip.
 
-    ​					<img src="sideview.jpg" style="zoom:40%;" />     <img src="maze.jpg" style="zoom:40%;" />
+    ​					<img src="sideview.jpg" style="zoom:30%;" />     <img src="maze.jpg" style="zoom:30%;" />
 
 
 -   Tracking Camera: We chose OpenMV, an integrated camera module programmable in Python. We built a motor-driven camera platform. It allowed the camera to track targets in a wider range. 
 
-    ​										<img src="tracking 00_00_04-00_00_11.gif" style="zoom:40%;" />     <img src="tracking detail 00_00_00-00_00_06.gif" style="zoom:40%;" />
+    ​                   <img src="tracking 00_00_04-00_00_11.gif" style="zoom:30%;" />     <img src="tracking detail 00_00_00-00_00_06.gif" style="zoom:30%;" />
 
 -   Multi-sensors: We used a gyroscope is to detect its orientation roughly. We used four ultrasonic sensors for distance detection and preciser orientation adjustments. We used infrared sensors to locate.
 
@@ -44,7 +47,7 @@ I am honored to be the chief topic maker of the “Yuyuan” Robot Contest of Au
 
 
 # Researches
-### Regularizing Deep Networks with Semantic Data Augmentation (2020.05)
+### Regularizing Deep Networks with Semantic Data Augmentation (2020.05) \[arxiv[https://arxiv.org/abs/2007.10538]\]
 
 *Yulin Wang, Xuran Pan, Shiji Song, **Yitong Xia**, Hong Zhang, Cheng Wu, Gao Huang*. *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI). (In revision)*
 
