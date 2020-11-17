@@ -1,8 +1,8 @@
 # Bio
 <div>
-<table border="1">
+<table border="0">
 <td width="40%">
-<img src="./selfie.jpg" style="zoom:100%;" />
+<img src="./selfie.jpg" style="zoom:50%;" />
 </td>
     
 <td width="60%">
