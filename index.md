@@ -1,4 +1,4 @@
-# Bio
+# Biography
 <p>
 I'm a senior student at the Automation Science Department, Beihang University, Beijing, China. I held an average GPA of 3.80/4.00 or 91/100 for the past three years.
 </p>  
@@ -6,7 +6,7 @@ I'm a senior student at the Automation Science Department, Beihang University, B
 My research interests are computer vision, machine learning and ML systems. Currently, I'm working as a summer intern with <a href="https://www.ntu.edu.sg/home/ygwen/">Prof. Yonggan Wen</a>. Before that, I worked with <a href="https://scholar.google.co.jp/citations?user=WH0J_34AAAAJ&hl=en&oi=ao">Prof. Baochang Zhang</a> at Beihang University and <a href="http://www.gaohuang.net/">Prof. Gao Huang</a> at Tsinghua University.
 </p>
 <p>       
-I plan to apply for master's and Ph.D. programs in both EE and CS directions.
+I plan to apply for master's and Ph.D. programs in both EE and CS directions. Welcome to contact me through e-mail: <a href="xyt990614@buaa.edu.cn">xyt990614@buaa.edu.cn</a>.
 </p>
 
 
@@ -38,7 +38,7 @@ In this work we designed a few-shot classification architecture. To further enha
 
 - Flight Control Algorithm: We simulated the control algorithm in both Simulink and DJI Assistant environments before deploying it to the drone.
 
-​                                                       <img src="drone_simulation.png" style="zoom:50%;"> 
+​                                                       <img src="drone_simulation.png" style="zoom:60%;"> 
 - Desktop-class Console: Based on DJIWindowsSDK, we developed a monitor console that displayed instant accelerations, velocities, spacial coordinates, and instant camera image.
 
 ### Pattern Recognition Course: Classification on Medical Cell Dataset
