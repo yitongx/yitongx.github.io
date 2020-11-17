@@ -47,7 +47,7 @@ I am honored to be the chief topic maker of the “Yuyuan” Robot Contest of Au
 
 
 # Researches
-### Regularizing Deep Networks with Semantic Data Augmentation (2020.05) \[arxiv[https://arxiv.org/abs/2007.10538]\]
+### Regularizing Deep Networks with Semantic Data Augmentation (2020.05) [<a href="https://arxiv.org/abs/2007.10538">arxiv</a>]
 
 *Yulin Wang, Xuran Pan, Shiji Song, **Yitong Xia**, Hong Zhang, Cheng Wu, Gao Huang*. *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI). (In revision)*
 
