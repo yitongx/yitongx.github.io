@@ -16,8 +16,8 @@ I plan to apply for master's and Ph.D. programs in both EE and CS directions. We
 
 In this work we developed a framework for model-based reinforcment learning named *Baconian*[beˈkonin]. It provides several classical model-free and model-based benchmarks for reproducing. Its flexible and modularized architecture enable users to set up their model-based RL experiments efficiently. 
 
-### Regularizing Deep Networks with Semantic Data Augmentation (2020.05) [<a href="https://arxiv.org/abs/2007.10538">arxiv</a>]
-*Yulin Wang, Xuran Pan, Shiji Song, **Yitong Xia**, Hong Zhang, Cheng Wu, Gao Huang*. *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI). (Under revision)*
+### Regularizing Deep Networks with Semantic Data Augmentation (2021.01) [<a href="https://arxiv.org/abs/2007.10538">arxiv</a>]
+*Yulin Wang, Xuran Pan, Shiji Song, **Yitong Xia**, Hong Zhang, Cheng Wu, Gao Huang*. *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI).*
 
 In this work we expanded an effective feature-space augmentation method. Firstly it online estimates the covariance matrix of each class's deep feature, and sample zero-mean normal distributions from those matrices to find meaningful semantic directions for deep features. Secondly it augments the deep features along zero-mean normal distributions. To handle the computation cost, we took the upper bound of the original loss as optimizing loss. This method fits in both supervised and semi-supervised learning and can improve performances of classical classification baselines, such as *ResNet50* or *mean teacher*. My contributions are: (1) Improved the data augmentation to fit it in semi-supervised learning settings and implemented series of experiments. (2) Visualized the augmented feature by projecting feature space to image space with Generative Adversarial Network.
 
