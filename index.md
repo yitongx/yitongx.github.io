@@ -15,14 +15,14 @@ I plan to apply for master's and Ph.D. programs in both EE and CS directions. We
 In this work we developed a framework for model-based reinforcment learning named *Baconian*[beˈkonin]. It provides several classical model-free and model-based benchmarks for reproducing. Its flexible and modularized architecture enable users to set up their model-based RL experiments efficiently. 
 
 ### Regularizing Deep Networks with Semantic Data Augmentation (2021.01) [<a href="https://arxiv.org/abs/2007.10538">arxiv</a>][<a href="https://ieeexplore.ieee.org/document/9332260">IEEE Xplore</a>]
-Yulin Wang, Gao Huang, Shiji Song, Xuran Pan, **Yitong Xia**, Cheng Wu. *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI).*
+*Yulin Wang, Gao Huang, Shiji Song, Xuran Pan, **Yitong Xia**, Cheng Wu. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI).*
 
 In this work we expanded an effective feature-space data augmentation method named Implicit Semantic Data Augmentation (ISDA). Firstly ISDA online estimates the covariance matrix of each class's deep feature, and sample zero-mean normal distributions from those matrices to find potential augmentation directions for deep features. Secondly ISDA augments the deep features along meaningful semantic directions. To handle the computation cost, we took the upper bound of the original loss as optimizing loss. This method fits in both supervised and semi-supervised learning and can improve performances of several classical baseline results in supervised learning, semi-supervised learning and semantic segmentation. My contributions are: (1) Improved the data augmentation to fit it in semi-supervised learning settings and implemented series of experiments. (2) Visualized the augmented feature by projecting feature space to image space with Generative Adversarial Network. Compared to conventional augmentations like rotating or flipping, ISDA proved to be capable of finding meaningful directions, along which the augmentation could be applied.
 
 ​                              <img src="isda_visualization.jpg" style="zoom:80%;">
 
 ### Graph Embedding Relation Networks for Few-shot Learning (2019.12)
-*Zhen Liu*, **Yitong Xia\***, BaoChang Zhang, Kexin Liu. Chinese Control Conference (CCC2020).*
+*Zhen Liu\*, **Yitong Xia\***, BaoChang Zhang, Kexin Liu. Chinese Control Conference (CCC2020).*
 
 In this work we designed a few-shot classification architecture. To further enhance the relation learning within classes, we design a 3-layer graph relation module. To balance the lower and higher level features, we skip connect the graph module. The graph module can easily fit in any one-stage learning architectures. Our approach is brief, yet it can achieve higher few-shot classification accuracies on _miniImageNet_ and _tieredImageNet_ than existing graph approaches. I was the co-first author in this work.
 
