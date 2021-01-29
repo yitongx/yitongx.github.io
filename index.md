@@ -19,7 +19,7 @@ In this work we developed a framework for model-based reinforcment learning name
 
 In this work we expanded an effective feature-space data augmentation method named Implicit Semantic Data Augmentation (ISDA). Firstly ISDA online estimates the covariance matrix of each class's deep feature, and sample zero-mean normal distributions from those matrices to find potential augmentation directions for deep features. Secondly ISDA augments the deep features along meaningful semantic directions. To handle the computation cost, we took the upper bound of the original loss as optimizing loss. This method fits in both supervised and semi-supervised learning and can improve performances of several classical baseline results in supervised learning, semi-supervised learning and semantic segmentation. My contributions are: (1) Improved the data augmentation to fit it in semi-supervised learning settings and implemented series of experiments. (2) Visualized the augmented feature by projecting feature space to image space with Generative Adversarial Network. Compared to conventional augmentations like rotating or flipping, ISDA proved to be capable of finding meaningful directions, along which the augmentation could be applied.
 
-​                              <img src="isda_visualization.jpg" style="zoom:90%;">
+​                              <img src="isda_visualization.jpg" style="zoom:80%;">
 
 ### Graph Embedding Relation Networks for Few-shot Learning (2019.12)
 *Zhen Liu*, **Yitong Xia\***, BaoChang Zhang, Kexin Liu. Chinese Control Conference (CCC2020).*
