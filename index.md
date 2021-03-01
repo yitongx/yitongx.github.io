@@ -11,8 +11,8 @@ I plan to apply for master's and Ph.D. programs in both EE and CS directions. We
 
 
 # Researches
-### Baconian: A Model-Based Reinforcement Learning Framework (2020.08)
-In this work we developed a framework for model-based reinforcment learning named *Baconian*[beˈkonin]. It provides several classical model-free and model-based benchmarks for reproducing. Its flexible and modularized architecture enable users to set up their model-based RL experiments efficiently. 
+### Baconian: A Model-Based Reinforcement Learning Framework (2020.08) [<a href="https://github.com/cap-ntu/baconian-project">github</a>]
+In this work we developed a framework for model-based reinforcment learning named *Baconian*[beˈkonin]. It provides several classical model-free and model-based benchmarks for reproducing. Its flexible and modularized architecture enable users to set up their model-based RL experiments efficiently. Baconian is now being used by CAP group at Nanyang Technological University.
 
 ### Regularizing Deep Networks with Semantic Data Augmentation (2021.01) [<a href="https://arxiv.org/abs/2007.10538">arxiv</a>][<a href="https://ieeexplore.ieee.org/document/9332260">IEEE Xplore</a>]
 *Yulin Wang, Gao Huang, Shiji Song, Xuran Pan, **Yitong Xia**, Cheng Wu. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI).*
