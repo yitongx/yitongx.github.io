@@ -43,7 +43,7 @@ In this work we designed a few-shot classification architecture. To further enha
 
 ### Pattern Recognition Course: Classification on Medical Cell Dataset
 - The dataset contains three classes of cells: Lymphocyte, Normal Epithelial, and Malignant Epithelial.
-- We properly preprocessed the contexted cell image and trained a classification network through transfer learning. The final classification accuracies reached 95% classification accuracy and ranked 1/22 among all groups.
+- We properly preprocessed the contexted cell image and trained a classification network through transfer learning. The final classification results reached 95.0% accuracy and ranked **1**/22 among all teams.
 
 ### Chief Topic Maker of 7th "_Yuyuan_" Robot Contest  (2019.10)
 
